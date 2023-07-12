@@ -1,12 +1,12 @@
-A program that takes a input or a file, read it and write each line + press enter button in your keyboard.
+A program that takes a input or a file, read it and write each line + press enter button in your keyboard.\n\n
 
-Example:
-text.txt:
-  hello
-  world
-  text
+Example:\n
+text.txt:\n
+  hello\n
+  world\n
+  text\n\n
 
-Keyboard output:
-  hello + <enter>
-  world + <enter>
-  text + <enter>
+Keyboard output:\n
+  hello + <enter>\n
+  world + <enter>\n
+  text + <enter>\n
