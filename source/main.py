@@ -5,17 +5,6 @@ from PIL import Image, ImageDraw
 from tkinter import messagebox, filedialog, ttk
 import os
 
-"""
-    TA FUNCIONANDO =)
-
-    COISAS PARA FAZER !! 
-    AJUSTAR GRAFICOS
-    TENTAR TIRAR VARIAVEL GLOBAL
-    COMENTAR O CODIGO
-    
-    SUBIR AO GITHUB :)
-"""
-
 writeText = False
 def spam():
     if ((len(textEntry.get()) != 0) or (fPath.get() != '')):  # Check if any of the inputs method is filled
